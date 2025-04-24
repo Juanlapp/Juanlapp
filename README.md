@@ -5,3 +5,7 @@
 :eyeglasses: **Geek empedernido** (¿aún se usa geek?)  
 :oncoming_automobile: **Fan del futbol y el deporte⚽🥅**  
 :family: **¡Mi camino FullStack🦾!**  
+
+### Vias de contacto
+
+![Website](https://img.shields.io/badge/aminespinoza.com-up-green?style=for-the-badge)  
