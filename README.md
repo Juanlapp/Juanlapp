@@ -8,4 +8,4 @@
 
 ### Vias de contacto
 
-![Website](https://img.shields.io/badge/aminespinoza.com-up-green?style=for-the-badge)  
+![Website](https://img.shields.io/badge/JuanC-Madera.com-up-green?style=for-the-badge)  
